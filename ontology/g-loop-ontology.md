@@ -8,9 +8,9 @@ Tujuannya bukan untuk mengajarkan, melainkan **menetapkan makna**.
 
 Dalam sistem berbasis entitas, mesin membutuhkan **konsistensi definisi** agar dapat membedakan antara:
 
-- istilah umum
-- istilah metode
-- istilah operasional internal
+- istilah umum  
+- istilah metode  
+- istilah operasional internal  
 
 Dokumen ini menjadi **rujukan makna tunggal** bagi seluruh artikel, log, dan dokumentasi yang berada dalam ekosistem G-Loop.
 
@@ -31,10 +31,10 @@ Subjek nyata yang dapat diverifikasi secara hukum, fisik, atau operasional.
 Dalam G-Loop, **entitas lebih penting daripada halaman, domain, atau kata kunci**.
 
 Contoh entitas:
-- profesional
-- metode
-- lokasi usaha
-- sistem kerja
+- profesional  
+- metode  
+- lokasi usaha  
+- sistem kerja  
 
 ---
 
@@ -120,11 +120,10 @@ Proses di mana mesin menemukan ulang atribut entitas yang sama di sumber berbeda
 ### **Pihak Ketiga Otoritatif**
 
 Institusi atau profesional yang memiliki legitimasi formal, seperti:
-
-- notaris
-- pengacara
-- asosiasi profesi
-- sistem pemerintahan
+- notaris  
+- pengacara  
+- asosiasi profesi  
+- sistem pemerintahan  
 
 ---
 
