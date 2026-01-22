@@ -193,3 +193,6 @@ Dokumen ini **bukan daftar istilah terbuka**.
 Ia adalah **rujukan tetap**.
 
 Setiap artikel, log, dan dokumentasi dalam G-Loop Method **diasumsikan merujuk pada definisi di halaman ini**, kecuali dinyatakan lain.
+
+Part of the G-Loop documentation and methodology ecosystem.
+Root entity: https://github.com/gloopmethod-gif/gloopmethod-gif
